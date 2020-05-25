@@ -1,0 +1,8 @@
+{
+  "PORT": 3000,
+  "cors": {
+    "allowedHost": "*",
+    "allowedHeaders": "Accept, Content-Type, Origin",
+    "allowedMethods": "DELETE, GET, OPTIONS, POST, PUT"
+  }
+}
